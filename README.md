@@ -1,5 +1,5 @@
 # chat_pdf
-Streamlit app to Chat with your pdf document using openai api &amp; langchain
+Retrieval Augmented Generation (RAG) Streamlit app to Chat with your pdf document using openai api &amp; langchain
 
 
 Example 1 : chat with diabetes doc
